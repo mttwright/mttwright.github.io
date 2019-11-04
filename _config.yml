@@ -1,11 +1,11 @@
 # Site settings
 author: Matt
-title: First Project 
+title: My First Blog
 header-img: img/home-bg.png
 email: mttwright@gmail.com
 copyright_name: Matt
 description: > # this means to ignore newlines until "baseurl:"
-  CLI Project
+  A Short Subtitle
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mttwright
