@@ -1,11 +1,11 @@
 # Site settings
-author: virtual-frame-7789
-title: 
+author: Matt
+title: First Project 
 header-img: img/home-bg.png
 email: mttwright@gmail.com
-copyright_name: virtual-frame-7789
+copyright_name: Matt
 description: > # this means to ignore newlines until "baseurl:"
-  
+  CLI Project
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mttwright
